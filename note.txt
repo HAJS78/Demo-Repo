@@ -1,1 +1,1 @@
-//This a note text file
+//This a note.txt file where all observations about the login feature will be logged
